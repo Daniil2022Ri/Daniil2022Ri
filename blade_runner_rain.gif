@@ -1,0 +1,67 @@
+# === 1. GIF с дождём ===
+frames = []
+width, height = 1200, 300
+num_drops = 120
+num_frames = 30
+
+for f in range(num_frames):
+    img = Image.new('RGB', (width, height), (10, 6, 8))
+    draw = ImageDraw.Draw(img)
+    
+    # Фоновый градиент — туман Лос-Анджелеса 2049
+    for y in range(height):
+        fog = int(8 + (y / height) * 12)
+        draw.line([(0, y), (width, y)], fill=(10 + fog//3, 6 + fog//4, 8 + fog//3))
+    
+    # Неоновые линии на горизонте (город)
+    for i in range(5):
+        y = 180 + i * 15
+        alpha = 40 + i * 15
+        color = (0, int(alpha * 0.6), int(alpha * 0.3))
+        draw.line([(0, y), (width, y)], fill=color, width=1)
+    
+    # Дождь
+    random.seed(42 + f)
+    for _ in range(num_drops):
+        x = random.randint(0, width)
+        y_start = random.randint(-50, height)
+        length = random.randint(15, 40)
+        speed = random.randint(8, 20)
+        y_end = y_start + length + speed
+        
+        brightness = random.randint(60, 180)
+        color = (0, brightness, int(brightness * 0.5))
+        
+        skew = random.randint(-2, 2)
+        draw.line([(x + skew, y_start), (x, y_end)], fill=color, width=1)
+    
+    # Блики на земле (отражение неона)
+    for _ in range(8):
+        bx = random.randint(0, width)
+        by = random.randint(240, 290)
+        bw = random.randint(20, 80)
+        bh = random.randint(1, 3)
+        draw.ellipse([(bx, by), (bx + bw, by + bh)], fill=(0, 40, 20))
+    
+    # Туман снизу — простой полупрозрачный overlay
+    fog_layer = Image.new('RGBA', (width, height - 250), (10, 6, 8, 0))
+    fog_draw = ImageDraw.Draw(fog_layer)
+    for y in range(fog_layer.height):
+        alpha = int((y / fog_layer.height) * 60)
+        fog_draw.line([(0, y), (width, y)], fill=(10, 6, 8, alpha))
+    
+    img_rgba = img.convert('RGBA')
+    img_rgba.paste(fog_layer, (0, 250), fog_layer)
+    img = img_rgba.convert('RGB')
+    
+    frames.append(img)
+
+# Сохраняем GIF
+frames[0].save(
+    '/mnt/agents/output/blade_runner_rain.gif',
+    save_all=True,
+    append_images=frames[1:],
+    duration=60,
+    loop=0,
+    optimize=True
+)
