@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV2ZW8zNnh2anMxM2Q3djFzdzg5MTl1cmZ6OTJ3OHluaW5heWI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiLUI6AdZWNNR34m1K/giphy.gif" width="100%" alt="Blade Runner Rain" />
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/daily render rainy day GIF by partyonmarz.gif" width="100%" alt="Blade Runner Rain" />
 
 ---
 
@@ -44,7 +44,7 @@ $ uptime
 
 🐳 **DevOps:** Docker, Kubernetes, GitLab CI, Jenkins, Grafana, ELK Stack
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV2ZW8zNnh2anMxM2Q3djFzdzg5MTl1cmZ6OTJ3OHluaW5heWI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiLUI6AdZWNNR34m1K/giphy.gif" width="100%" alt="Blade Runner Rain" />
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/daily render rainy day GIF by partyonmarz.gif" width="100%" alt="Blade Runner Rain" />
 
 ---
 
@@ -64,7 +64,7 @@ $ uptime
 
 > 🎬 Сайт-портфолио в стиле «Бегущего по лезвию» — полностью на React, с анимациями, glitch-эффектами, терминалом и живыми проектами.
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV2ZW8zNnh2anMxM2Q3djFzdzg5MTl1cmZ6OTJ3OHluaW5heWI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiLUI6AdZWNNR34m1K/giphy.gif" width="100%" alt="Blade Runner Rain" />
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/daily render rainy day GIF by partyonmarz.gif" width="100%" alt="Blade Runner Rain" />
 
 ---
 
@@ -91,7 +91,7 @@ $ uptime
 | WeatherApp | React, Open-Meteo API | [Открыть](https://daniil2022ri.github.io/Portfolio_FullStack/Web_API_sites/Weather_monitoring_site/index.html) |
 | CurrencyHub | React, exchangerate-api | [Открыть](https://daniil2022ri.github.io/Portfolio_FullStack/Web_API_sites/CurrencyHub/index.html) |
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV2ZW8zNnh2anMxM2Q3djFzdzg5MTl1cmZ6OTJ3OHluaW5heWI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiLUI6AdZWNNR34m1K/giphy.gif" width="100%" alt="Blade Runner Rain" />
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/daily render rainy day GIF by partyonmarz.gif" width="100%" alt="Blade Runner Rain" />
 
 ---
 
@@ -106,7 +106,7 @@ $ uptime
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniil2022Ri&theme=dark&background=0a0608&border=1e1e2e&stroke=00ff88&ring=00ff88&fire=ff6b6b&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=e8ddd0&sideLabels=e8ddd0&dates=8b8b8b" height="180" />
 </p>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV2ZW8zNnh2anMxM2Q3djFzdzg5MTl1cmZ6OTJ3OHluaW5heWI3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SiLUI6AdZWNNR34m1K/giphy.gif" width="100%" alt="Blade Runner Rain" />
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/daily render rainy day GIF by partyonmarz.gif" width="100%" alt="Blade Runner Rain" />
 
 ---
 
