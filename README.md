@@ -20,13 +20,13 @@
 
 ```bash
 $ whoami
-> daniil-rybiyakov
+> Daniil-Rybiyakov
 
 $ cat stack.txt
 > Java Spring React Vue TypeScript Kafka Docker
 
 $ cat location.txt
-> Rostov-on-Don, Russia
+> Russia
 
 $ uptime
 > coding for 4+ years
