@@ -79,11 +79,11 @@ $ uptime
 
 | Проект | Стек | Ссылка |
 |--------|------|--------|
-| TechStore | Vue 3, CSS Grid | [Открыть](https://daniil2022ri.github.io/TechStore/) |
-| KickStore | React 18, useMemo | [Открыть](https://daniil2022ri.github.io/KickStore/) |
-| Wanderlust | React 18, Lazy Loading | [Открыть](https://daniil2022ri.github.io/Wanderlust/) |
-| WeatherApp | React, Open-Meteo API | [Открыть](https://daniil2022ri.github.io/WeatherApp/) |
-| CurrencyHub | React, exchangerate-api | [Открыть](https://daniil2022ri.github.io/CurrencyHub/) |
+| TechStore | Vue 3, CSS Grid | [Открыть](https://daniil2022ri.github.io/Portfolio_FullStack/Normal_verstka_Web/Site_Gadjet_Store/index.html) |
+| KickStore | React 18, useMemo | [Открыть](https://daniil2022ri.github.io/Portfolio_FullStack/Normal_verstka_Web/Site_shooth_Store/index.html) |
+| Wanderlust | React 18, Lazy Loading | [Открыть](https://daniil2022ri.github.io/Portfolio_FullStack/Normal_verstka_Web/Site_Travel_Store/index.html) |
+| WeatherApp | React, Open-Meteo API | [Открыть](https://daniil2022ri.github.io/Portfolio_FullStack/Web_API_sites/Weather_monitoring_site/index.html) |
+| CurrencyHub | React, exchangerate-api | [Открыть](https://daniil2022ri.github.io/Portfolio_FullStack/Web_API_sites/CurrencyHub/index.html) |
 
 ---
 
@@ -100,13 +100,6 @@ $ uptime
 
 ---
 
-## 🏆 Достижения
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daniil2022Ri&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
 
 ## 📫 Контакты
 
