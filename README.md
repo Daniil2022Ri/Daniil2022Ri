@@ -1,3 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%">
+  <foreignObject width="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background-color: #0a0608; color: #e8ddd0; padding: 24px; border-radius: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+      
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=FULLSTACK+DEVELOPER;Java+%7C+Spring+%7C+React+%7C+Vue;4%2B+Years+Experience;Microservices+%7C+Event-Driven;Pixel-Perfect+Markup" alt="Typing SVG" />
 </h1>
@@ -131,6 +135,7 @@ $ uptime
   <i style="color: #00FF88;">"All those moments will be lost in time, like tears in rain."</i>
 </p>
 
-
-
+    </div>
+  </foreignObject>
+</svg>
 
