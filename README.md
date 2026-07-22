@@ -87,7 +87,7 @@ $ experience
 * Grafana
 * Prometheus
 
----
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" width="100%" />
 
 ## 🌐 Portfolio
 
@@ -95,7 +95,7 @@ $ experience
 
 👉 **https://daniil2022ri.github.io/Portfolio_FullStack/**
 
----
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -107,7 +107,7 @@ $ experience
 | SpringSecurity_V2  | Spring Security, JWT        | Authentication & Authorization |
 | MVC_Hibernate      | Hibernate, PostgreSQL       | Advanced Data Access Layer     |
 
----
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -125,7 +125,7 @@ $ experience
 
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" width="100%" />
 
 ## 📫 Contacts
 
@@ -133,7 +133,7 @@ $ experience
 * 💬 Telegram: https://t.me/danilRyDeveloperFullStack
 * 🌐 Portfolio: https://daniil2022ri.github.io/Portfolio_FullStack/
 
----
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" width="100%" />
 
 <div align="center">
 
