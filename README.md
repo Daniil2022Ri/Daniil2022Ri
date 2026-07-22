@@ -135,7 +135,7 @@ $ uptime
   <i style="color: #00FF88;">"All those moments will be lost in time, like tears in rain."</i>
 </p>
 
-    </div>
+  </div>
   </foreignObject>
 </svg>
 
