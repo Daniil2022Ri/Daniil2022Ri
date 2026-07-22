@@ -66,7 +66,7 @@ $ uptime
   </a>
 </p>
 
-> 🎬 Сайт-портфолио в стиле «Бегущего по лезвию» — полностью на React, с анимациями, glitch-эффектами, терминалом и живыми проектами.
+> 🎬 Сайт-портфолио — полностью на React, с анимациями, glitch-эффектами, терминалом и живыми проектами.
 
 <img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" height="10%" alt="Blade Runner Rain" />
 
