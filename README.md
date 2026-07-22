@@ -117,10 +117,10 @@ $ uptime
 ## 📫 Контакты
 
 <p align="center">
-  <a href="mailto:rybiyakov.daniil@yandex.ru">
+  <a href="mailto:dryniakov@mail.ru">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0a0608&labelColor=00FF88" />
   </a>
-  <a href="https://t.me/rybiyakov_daniil">
+  <a href="https://t.me/rybiyakov_daniil](https://t.me/danilRyDeveloperFullStak">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=0a0608&labelColor=00FF88" />
   </a>
 </p>
