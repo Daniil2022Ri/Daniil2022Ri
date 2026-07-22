@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/daily render rainy day GIF by partyonmarz.gif" width="100%" height="10%" alt="Blade Runner Rain" />
+<img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/daily render rainy day GIF by partyonmarz.gif" width="10%" height="10%" alt="Blade Runner Rain" />
 
 ---
 
