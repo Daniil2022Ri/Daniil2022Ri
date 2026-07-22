@@ -130,7 +130,7 @@ $ experience
 ## 📫 Contacts
 
 * 📧 [hhffcgubv@gmail.com](mailto:hhffcgubv@gmail.com)
-* 💬 Telegram: https://t.me/daniil_rybakov_dev
+* 💬 Telegram: https://t.me/danilRyDeveloperFullStack
 * 🌐 Portfolio: https://daniil2022ri.github.io/Portfolio_FullStack/
 
 ---
