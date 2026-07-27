@@ -93,7 +93,7 @@ $ experience
 
 ### 🔗 Live Portfolio
 
-👉 **https://daniil2022ri.github.io/Portfolio_FullStack/**
+👉 **https://daniil2022ri.github.io/Portfolio_Backend/**
 
 <img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" width="100%" />
 
@@ -131,7 +131,7 @@ $ experience
 
 * 📧 [hhffcgubv@gmail.com](mailto:hhffcgubv@gmail.com)
 * 💬 Telegram: https://t.me/danilRyDeveloperFullStack
-* 🌐 Portfolio: https://daniil2022ri.github.io/Portfolio_FullStack/
+* 🌐 Portfolio: https://daniil2022ri.github.io/Portfolio_Backend/
 
 <img src="https://raw.githubusercontent.com/Daniil2022Ri/Daniil2022Ri/main/PlasmaBladeRunner_1.gif" width="100%" />
 
