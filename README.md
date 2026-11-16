@@ -25,7 +25,7 @@
 
 <br>
 
-<a href="#ru"><b>🇷🇺 Русский</b></a> &nbsp;·&nbsp; <a href="#en"><b>🇬🇧 English</b></a>
+<a href="#user-content-ru"><b>🇷🇺 Русский</b></a> &nbsp;·&nbsp; <a href="#user-content-en"><b>🇬🇧 English</b></a>
 
 </div>
 
